@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/omjm/static/css/main.5402ad08.css",
-    "main.js": "/omjm/static/js/main.0c84b415.js",
+    "main.js": "/omjm/static/js/main.c2839508.js",
     "index.html": "/omjm/index.html",
     "main.5402ad08.css.map": "/omjm/static/css/main.5402ad08.css.map",
-    "main.0c84b415.js.map": "/omjm/static/js/main.0c84b415.js.map"
+    "main.c2839508.js.map": "/omjm/static/js/main.c2839508.js.map"
   },
   "entrypoints": [
     "static/css/main.5402ad08.css",
-    "static/js/main.0c84b415.js"
+    "static/js/main.c2839508.js"
   ]
 }
