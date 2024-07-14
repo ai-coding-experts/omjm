@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/refou-front/static/css/main.5402ad08.css",
+    "main.js": "/refou-front/static/js/main.e4a76242.js",
+    "index.html": "/refou-front/index.html",
+    "main.5402ad08.css.map": "/refou-front/static/css/main.5402ad08.css.map",
+    "main.e4a76242.js.map": "/refou-front/static/js/main.e4a76242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5402ad08.css",
+    "static/js/main.e4a76242.js"
+  ]
+}
