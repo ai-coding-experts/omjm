@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/omjm/static/css/main.c1c273d1.css",
-    "main.js": "/omjm/static/js/main.b961b6b6.js",
+    "main.js": "/omjm/static/js/main.8017a53f.js",
     "static/js/952.ff9243c2.chunk.js": "/omjm/static/js/952.ff9243c2.chunk.js",
     "index.html": "/omjm/index.html",
     "main.c1c273d1.css.map": "/omjm/static/css/main.c1c273d1.css.map",
-    "main.b961b6b6.js.map": "/omjm/static/js/main.b961b6b6.js.map",
+    "main.8017a53f.js.map": "/omjm/static/js/main.8017a53f.js.map",
     "952.ff9243c2.chunk.js.map": "/omjm/static/js/952.ff9243c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c273d1.css",
-    "static/js/main.b961b6b6.js"
+    "static/js/main.8017a53f.js"
   ]
 }
